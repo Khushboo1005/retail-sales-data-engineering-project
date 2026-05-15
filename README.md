@@ -61,7 +61,7 @@ Power BI Dashboard & KPIs
 ### Silver Layer
 - Data cleaning
 - Date standardization
-- Numeric conversion
+- Checking duplicates
 - Null handling
 
 ### Gold Layer
@@ -98,7 +98,6 @@ retail-sales-data-engineering-project/
 │
 ├── notebooks/
 ├── architecture/
-├── screenshots/
 ├── dashboard/
 └── README.md
 ```
